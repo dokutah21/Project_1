@@ -1,0 +1,18 @@
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\bin\Debug\DAL.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\bin\Debug\DAL.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\bin\Debug\Entity.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\bin\Debug\Entity.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\obj\Debug\DAL.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DAL\obj\Debug\DAL.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\bin\Debug\DAL.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\bin\Debug\DAL.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\bin\Debug\Entity.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\bin\Debug\Entity.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\obj\Debug\DAL.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DAL\obj\Debug\DAL.pdb

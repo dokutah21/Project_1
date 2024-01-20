@@ -1,0 +1,58 @@
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.csproj.AssemblyReference.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmDangNhap.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.Properties.Resources.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.csproj.GenerateResource.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.csproj.CoreCompileInputs.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\DIS.exe.config
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\DIS.exe
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\DIS.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\BUS.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\Entity.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\DAL.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\BUS.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\Entity.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\bin\Debug\DAL.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.csproj.CopyComplete
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.exe
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.csproj.ResolveComReference.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmHoaDonNhap.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmHoaDonXuat.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmQuanLyKho.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmQuanLyKhuVuc.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmQuanLyNhanVien.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmQuanLySach.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmTrangChu.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmTheLoaiSach.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmTimKiemSach.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmThongKeNhap.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Nháp\DIS\obj\Debug\DIS.frmThongKeXuat.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\DIS.exe.config
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\DIS.exe
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\DIS.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\BUS.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\Entity.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\DAL.dll
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\BUS.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\Entity.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\bin\Debug\DAL.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.csproj.AssemblyReference.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.csproj.ResolveComReference.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmDangNhap.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmHoaDonNhap.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmHoaDonXuat.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmQuanLyKho.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmQuanLyKhuVuc.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmQuanLyNhanVien.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmTheLoaiSach.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmTimKiemSach.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmTrangChu.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.Properties.Resources.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.csproj.GenerateResource.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.csproj.CoreCompileInputs.cache
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.csproj.CopyComplete
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.exe
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.pdb
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmThongKeBaoCao.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmQuanLySach.resources
+D:\1. Document for Year 2\Đồ Án 1\Bài lập trình\Alpha Test\DIS\obj\Debug\DIS.frmTLSach.resources
