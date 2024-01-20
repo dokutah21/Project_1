@@ -1,0 +1,3 @@
+create proc sp_GetAllChiTietNhap
+as
+select*from ChiTiet_HDN

@@ -1,0 +1,3 @@
+create proc sp_GetAllTheLoaiSach
+as
+select*from TheLoaiSach

@@ -1,0 +1,3 @@
+create proc sp_GetAllChiTietXuat
+as
+select*from ChiTiet_HDX
